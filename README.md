@@ -6,8 +6,7 @@
 3. [Installation](#installation)
 4. [Usage](#usage)
 5. [Future Enhancements](#future-enhancements)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Introduction
 This project aims to provide real-time analytics for anime streaming platforms. Built using TypeScript (React & JS) for the frontend and Express with MySQL for the backend, this application allows you to monitor various metrics such as current anime being watched, viewer count, and average watch time.

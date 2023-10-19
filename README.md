@@ -3,9 +3,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Future Enhancements](#future-enhancements)
+3. [Usage](#usage)
+4. [Future Enhancements](#future-enhancements)
 
 
 ## Introduction
@@ -16,20 +15,6 @@ This project aims to provide real-time analytics for anime streaming platforms. 
 - Data simulation for testing
 - RESTful API for data insertion and retrieval
 - Easy-to-use interface
-
-## Installation
-1. Clone the repository
-    ```bash
-    git clone https://github.com/mahir24/Real-Time-Streaming-Analytics.git
-    ```
-2. Install dependencies
-    ```bash
-    npm install
-    ```
-3. Start the server
-    ```bash
-    npm start
-    ```
 
 ## Usage
 1. Open the application in your browser.
